@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI - Business Decision Intelligence Platform",
+  "description": "Enterprise AI business decision intelligence platform featuring automatic data profiling, schema inference, dynamic KPIs, problem detection, natural language analytics, real SQL engine, AI-to-SQL generation, forecasting, what-if modeling, and Power BI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
